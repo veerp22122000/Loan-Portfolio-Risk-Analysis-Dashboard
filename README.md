@@ -7,3 +7,4 @@ This project focuses on analyzing loan data from **financial_loan.csv** and crea
 3. The Overview Dashboard visualizes lending performance, trends, and parameters through various charts.<br/>
 4. The Details Dashboard provides detailed insights into loan portfolios and borrower profiles.<br/>
 5. Filter keys such as loan grade, purpose, and verification status are integrated across all dashboards to enhance data exploration and user experience.<br/>
+Image of dashboards is shown in **summary.png, details.png, overview.png**
