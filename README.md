@@ -1,7 +1,7 @@
 # Bank Loan Report
 – Aims to analyze loan data, create three interactive dashboards that help in making data-driven decisions, track loan 
 portfolio's health, identify trends and facilitate strategic planning. Write, execute and match SQL query output with 
-dashboard data ensuring accuracy.\n 
+dashboard data ensuring accuracy.\ 
 –  Summary Dashboard: Provide insights into key loan-related metrics and their change over time, assess the quality of loan 
 portfolio that distinguishes between 'Good Loans' and 'Bad Loans'.
 – Overview Dashboard: Represent lending activities, performance, and trends using various charts that provide
