@@ -1,4 +1,3 @@
-
 # Bank Loan Report Dashboard<br/>
 This project focuses on analyzing loan data and creating three interactive dashboards—Summary, Overview, and Details to facilitate strategic planning and data-driven decision-making for loan portfolio management.<br/>
 
