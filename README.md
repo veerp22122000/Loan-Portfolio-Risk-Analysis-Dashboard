@@ -1,4 +1,4 @@
-# Bank Loan Report Dashboard<br/>
+# Loan Portfolio Risk Analysis Dashboard<br/>
 This project focuses on analyzing loan data from **financial_loan.csv** and creating three interactive dashboards—**Summary, Overview, and Details** to facilitate strategic planning and data-driven decision-making for loan portfolio management.<br/>
 
 ## Key Features<br/>
